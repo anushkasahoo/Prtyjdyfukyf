@@ -1,0 +1,28 @@
+body {
+    background-color:lightpink;
+    color: white;
+}
+h1 {
+    background-color: white;
+    color:cyan;
+}
+#show_sketch {
+    float: right;
+}
+p {
+    padding-top: 10px;
+    font-size: 25px;
+}
+#imgDrawn{
+    font-size: 30px;
+    color: red;
+}
+#score{
+    font-size: 25px;
+    margin-left: 150px;
+}
+#timer{
+    font-size: 25px;
+    float: right;
+    margin-right: 170px;
+}
